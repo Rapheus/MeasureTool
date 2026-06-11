@@ -1,6 +1,6 @@
 # MeasureTool
 
-An editor measuring tool for Unreal Engine. Drop a measure actor into your level, pick two
+A measuring tool for Unreal Engine. Drop a measure actor into your level, pick two
 anchor points, and get a live, camera-facing distance readout drawn directly in the viewport —
 complete with a ruler-style line, tick marks, and a units label.
 
