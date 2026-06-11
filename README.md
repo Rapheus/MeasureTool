@@ -6,6 +6,8 @@ complete with a ruler-style line, tick marks, and a units label.
 
 ![Engine](https://img.shields.io/badge/Unreal%20Engine-5.7-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
+<img src=".github/images/viewport.png" alt="Live measurement in the viewport" width="768" />
+
 ## Features
 
 - **Two-anchor measurement** — measure the distance between any two actors in the level.
@@ -39,6 +41,8 @@ complete with a ruler-style line, tick marks, and a units label.
 
 All properties are exposed in the **Measure** category and are keyframable so you
 can animate them in Sequencer.
+
+<img src=".github/images/details-panel.png" alt="Measure actor details panel" width="512" />
 
 ### Measure
 

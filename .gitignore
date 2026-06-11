@@ -1,0 +1,29 @@
+# Unreal Engine plugin .gitignore
+
+# Build intermediates
+Intermediate/
+Build/
+
+# Derived data cache
+DerivedDataCache/
+
+# Runtime-written data (logs, autosaves, runtime config)
+Saved/
+
+# IDE / editor files
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.user
+
+# OS cruft
+Thumbs.db
+.DS_Store
+
+# Note: .github/ (README screenshots) is intentionally NOT ignored.
