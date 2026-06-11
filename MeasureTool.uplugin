@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MeasureTool",
+	"Description": "Editor measuring tool for distance visualization between anchor actors.",
+	"Category": "Tools",
+	"CreatedBy": "Raphael Gaudin",
+	"CreatedByURL": "https://raphaelgaudin.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MeasureTool",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
